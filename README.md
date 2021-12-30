@@ -5,23 +5,17 @@ Hi, I'm Sai Charan, I'm a professional Machine Learning Engineer. I'm currently 
 Skills -
 * Programming SKills
   * Python
-  * TensorFlow
+  * C++
   * SQL
   * Java
   * UNIX shell scripting
   * JavaScript
-* Cloud & Backend Frameworks
+* Tools & Technology 
   * Django Web Framework
   * PostgreSQL
   * MySQL
   * Amazon Web Services (AWS)
-* Machine Learning
-  * Regression models
-  * Neural network classification
-  * Computer vision
-  * Convolution neural network
-  * Natural Language Processing (NLP)
-  * Timeseries models
+  * Docker
 
 
 <!---
