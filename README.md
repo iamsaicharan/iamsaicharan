@@ -1,6 +1,6 @@
 # Sai Charan Vadakapur
 
-*"Currently working on financial module to analyise financial data"*
+*"Currently working on financial module to analyse financial data"*
 
 
 <!---
