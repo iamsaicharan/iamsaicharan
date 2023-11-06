@@ -1,3 +1,5 @@
+![Alt text](header.svg)
+
 # Sai Charan Vadakapur
 
 *"Currently working on financial module to analyse financial data"*
