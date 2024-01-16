@@ -4,6 +4,7 @@
 
 ## 💫 About Me:
 👨🏻‍🔬 Passionate software engineer with over 3 years of experience in building large scale applications  
+🚀 Demonstrated proficiency in API development, backend engineering, and data engineering
 🔭 Currently working on financial modules for data mining and data analysis  
 📖 Learning to build and deploy machine learning models as a REST APIs
 
