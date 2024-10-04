@@ -1,6 +1,6 @@
 ![Alt text](header.svg)
 
-# Sai Charan Vadakapur | Software Engineer
+# Sai Charan Vadakapur | Software Development Engineer
 
 ## 💫 About Me:
 👨🏻‍🔬 Passionate software engineer with over 3 years of experience in building large scale applications  
